@@ -4,5 +4,11 @@ import config
 class EmailBot():
 
     def __init__(self):
-        self.
+        pass
 
+
+
+class Message():
+
+    def _init__(self):
+        pass
